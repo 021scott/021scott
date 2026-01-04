@@ -19,9 +19,9 @@ I have worked on titles such as FiveM (GTA V) developing systems and mods capabl
 <a href=''><img src='https://content.mixzira.dev/Github/HTML2.webp'></a>
 <a href=''><img src='https://content.mixzira.dev/Github/CSS2.webp'></a>
 <a href=''><img src='https://content.mixzira.dev/Github/JavaScript2.webp'></a>
-<a href=''><img src='https://content.mixzira.dev/Github/TypeScript2.webp'></a>
-<a href=''><img src='https://content.mixzira.dev/Github/CPlusPlus.webp'></a>
-<a href=''><img src='https://content.mixzira.dev/Github/CSharp.webp'></a>
+<!-- <a href=''><img src='https://content.mixzira.dev/Github/TypeScript2.webp'></a> -->
+<!-- <a href=''><img src='https://content.mixzira.dev/Github/CPlusPlus.webp'></a> -->
+<!-- <a href=''><img src='https://content.mixzira.dev/Github/CSharp.webp'></a> -->
 <a href=''><img src='https://content.mixzira.dev/Github/Lua2.webp'></a>
 
 <h2> Frameworks & Libraries: </h2>
